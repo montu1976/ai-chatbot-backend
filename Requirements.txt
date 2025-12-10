@@ -11,3 +11,6 @@ pydantic==1.10.12
 uvloop==0.17.0
 python-multipart==0.0.6
 gunicorn==21.2.0
+flask
+werkzeug
+openai
